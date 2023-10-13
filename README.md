@@ -45,6 +45,7 @@ Descrever como instalar e preparar qualquer dependência de desenvolvimento para
 ## Meta
 
 Seu nome - [@SeuTwitter](https://www.twitter.com/seuTwitter) - cezareller@gmail.com
-Distribuído sob a licença. Veja `LICENÇA` para mais informações.
-[https://github.com/ronaldoeller/geek-git1](https://github.com/ronaldoeller)
 
+Distribuído sob a licença. Veja `LICENÇA` para mais informações.
+
+[https://github.com/ronaldoeller/geek-git1](https://github.com/ronaldoeller)
